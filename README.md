@@ -18,4 +18,4 @@
 - Open nodemon on a port to handle route requests.
 
 ## Tests
-Tests will utilize the supergoose.js testing suite.
+- Tests will utilize the supergoose.js testing suite.
